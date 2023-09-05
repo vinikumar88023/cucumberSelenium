@@ -59,7 +59,7 @@ public final class Driver {
 	 * Gets the browser value and initialize the browser based on that. Browser
 	 * value will be passed from ConfigFile
 	 * 
-	 * @author Anjan S P
+	 *  Anjan S P
 	 * 
 	 */
 	public static void initDriver() {
